@@ -115,7 +115,7 @@ $$\mathcal{L}_{\text{Dice}} = 1 - \frac{2 \sum y_{\text{true}} y_{\text{pred}} +
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Brain-Tumour-Segmentation.git
+git clone https://github.com/suleman-gill/Brain-Tumour-Segmentation.git
 cd Brain-Tumour-Segmentation
 
 # Create and activate virtual environment
