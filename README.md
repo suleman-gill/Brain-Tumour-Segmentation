@@ -199,4 +199,4 @@ Contributions are welcome! Please feel free to submit issues or pull requests:
 
 ## 📄 License
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more  information.
